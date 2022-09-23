@@ -3,7 +3,7 @@
 	<info>
 		<name>Light of Xaryxis</name>
 		<update version="0.0.1">
-			<file name="light-of-xaryxis.index" url="https://raw.githubusercontent.com/NickVendel/legacy-elements/Spelljammer-Adventures-in-Space/supplements/light-of-xaryxis.index" />
+			<file name="light-of-xaryxis.index" url="https://raw.githubusercontent.com/Drkingknight/elements/master/supplements/light-of-xaryxis.index" />
 		</update>
 	</info>
 	<files>
