@@ -3,7 +3,7 @@
 	<info>
 		<name>Boo’s Astral Menagerie</name>
 		<update version="0.0.1">
-			<file name="boos-astral-menagerie.index" url="https://raw.githubusercontent.com/NickVendel/legacy-elements/Spelljammer-Adventures-in-Space/supplements/boos-astral-menagerie.index" />
+			<file name="boos-astral-menagerie.index" url="https://raw.githubusercontent.com/Drkingknight/elements/master/supplements/boos-astral-menagerie.index" />
 		</update>
 	</info>
 	<files>
