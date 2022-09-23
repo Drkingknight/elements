@@ -3,7 +3,7 @@
 	<info>
 		<name>Astral Adventurer's Guide</name>
 		<update version="0.0.1">
-			<file name="astral-adventurers-guide.index" url="https://raw.githubusercontent.com/NickVendel/legacy-elements/Spelljammer-Adventures-in-Space/supplements/astral-adventurers-guide.index" />
+			<file name="astral-adventurers-guide.index" url="https://raw.githubusercontent.com/Drkingknight/elements/master/supplements/astral-adventurers-guide.index" />
 		</update>
 	</info>
 	<files>
